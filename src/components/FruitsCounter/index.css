@@ -1,0 +1,62 @@
+.bg-container {
+  background-color: #ffd569;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+}
+
+.card-container {
+  background-color: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+}
+
+.fruit-img {
+  height: 200px;
+  width: 200px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.fruits-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.mango-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 24px;
+  align-items: center;
+}
+
+.banana-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  align-items: center;
+}
+
+.custom-button {
+  background-color: #007bff;
+  color: #ffffff;
+  height: 30px;
+  width: 90px;
+  border-width: 0px;
+  border-radius: 5px;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+
+.count {
+  color: #ffd569;
+}
